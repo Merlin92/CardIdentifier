@@ -1,0 +1,15 @@
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\bin\Debug\Cards Identifier.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\bin\Debug\Cards Identifier.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\bin\Debug\Cards Identifier.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards Identifier.csprojResolveAssemblyReference.cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards_Identifier.Form1.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards_Identifier.Properties.Resources.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards Identifier.csproj.GenerateResource.Cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards Identifier.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\files\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards Identifier.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\bin\Debug\Cards Identifier.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards Identifier.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assignment_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards Identifier.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\bin\Debug\Cards Identifier.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards Identifier.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_1\Cards Identifier 2\Files VS\Cards Identifier\Cards Identifier\obj\Debug\Cards Identifier.pdb
